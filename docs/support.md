@@ -35,6 +35,8 @@ Access may be restricted for users or servers that abuse the service.
 
 These terms may be updated from time to time.
 
-## Contact
+## Official Support Server
 
-For support questions, use the official Permission Doctor support server.
+Join the Permission Doctor support server:
+
+https://discord.gg/JNBGgNR2Ck
