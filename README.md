@@ -88,6 +88,11 @@ See:
 
 ## Support
 
+Need help, want to report a bug, or suggest a feature?
+
+Support Server:
+https://discord.gg/JNBGgNR2Ck
+
 Report bugs, request features, or get help through the official Permission Doctor support server.
 
 ## License
